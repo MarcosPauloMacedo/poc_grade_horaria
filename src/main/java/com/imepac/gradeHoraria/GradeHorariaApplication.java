@@ -8,5 +8,6 @@ public class GradeHorariaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GradeHorariaApplication.class, args);
+		System.out.println("Hello World");
 	}
 }
